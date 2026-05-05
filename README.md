@@ -15,7 +15,10 @@ Built on Django with a high-performance C++ engine and a Python fallback for max
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](CONTRIBUTING.md)
 [![Discord](https://img.shields.io/badge/Discord-Join-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/WfrpMuNZn)
 
-Join our Discord community for updates, support, and games: https://discord.gg/WfrpMuNZn
+## Community
+
+Join our Discord community for updates, support, and games:  
+https://discord.gg/WfrpMuNZn
 
 ### Core Maintainers
 
@@ -46,7 +49,7 @@ Join our Discord community for updates, support, and games: https://discord.gg/W
        </tr>
 </table>
 
-<sub>Click a profile or follow badge for release drops, roadmap notes, and engine updates.</sub>
+<sub>Click on a profile or follow badge to receive release updates, roadmap notes, and engine improvements.</sub>
 
 </div>
 
